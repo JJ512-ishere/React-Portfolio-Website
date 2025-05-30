@@ -2,8 +2,8 @@ export const Bio = {
     name: "Joel Joseph",
     roles: [
       "CS Engineering Student",
-      "Alpha MLSA Ambassador",
-      "ML Enthusiast",
+      "Beta MLSA Ambassador",
+      "AI/ML Software Engineering Intern",
       "Programmer",
     ],
     description:
