@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import styled, { ThemeProvider } from 'styled-components';
 import { darkTheme, lightTheme } from './utils/Themes.js';
@@ -39,7 +40,6 @@ function App() {
         <Projects />
         <Wrapper>
         <Education />
-        <Contact />
         </Wrapper>
         <Footer />
       </Body>
