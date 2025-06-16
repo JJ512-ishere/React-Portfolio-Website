@@ -7,7 +7,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "Final Year Computer Science Engineering Student at BITS Pilani,Dubai Campus.Detail-oriented and self driven, adept at testing software products, developing and implementing platforms. Having a comprehensive understanding of Python, Java,C and excellent knowledge of programming, debugging, and management.",
+      "Final Year Computer Science Engineering Student at BITS Pilani, Dubai Campus. Detail-oriented and self driven, adept at testing software products, developing and implementing platforms. Having a comprehensive understanding of Python, Java,C and excellent knowledge of programming, debugging, and management.",
     github: "https://github.com/JJ512-ishere",
     resume:
       "https://drive.google.com/file/d/1EPAzHPzseRYQ7NlqkgAju4r25WajBGd1/view?usp=sharing",
@@ -189,9 +189,8 @@ export const Bio = {
       role: "AI & ML Software Developer",
       company: "Odex Global",
       date: "January 2025 - Present",
-      desc: `– Working on Bug Fixes and Implementation of new Features in the Back-end and also parsing tags of Edifact and
-            XML documents. Local testing and debugging of new features before implementation in production.
-            Developed an AI based PDF Parser using a multi stage pipeline using OCR’s and LLM’s using RAG’s for field
+      desc: `-> Working on Bug Fixes and Implementation of new Features in the Back-end and also parsing tags of Edifact and XML documents. Local testing and debugging of new features before implementation in production.<br>
+      -> Developed an AI based PDF Parser using a multi stage pipeline using OCR’s and LLM’s using RAG’s for field
             extraction from Shipping Documents.Also developed a web crawler using Selenium for Payment Initialization`,
       skills: [
         "Springboot",
@@ -213,10 +212,10 @@ export const Bio = {
       role: "Outreach Head",
       company: "Microsoft Tech Club,BPDC",
       date: "June 2024 - Present",
-      desc: `– Led external outreach, organising school workshops, securing speakers, managing collaborations, and overseeing content for blogs and other platforms.
-            -Hosted the Club's first School Outreach Program with King's School Al Barsha training the School Students using Scratch.
-            -Hosted the Club's first Cybersecurity based Speaker Session with Mr. Mathew Medayil giving members deep insights into the field of cybersecurity.
-            - Responsible for Collaborations and Sponsorships between other clubs and sponsors for large scale events.`,
+      desc: `-> Led external outreach, organising school workshops, securing speakers, managing collaborations, and overseeing content for blogs and other platforms. <br>
+            -> Hosted the Club's first School Outreach Program with King's School Al Barsha training the School Students using Scratch.  <br>
+            -> Hosted the Club's first Cybersecurity based Speaker Session with Mr. Mathew Medayil giving members deep insights into the field of cybersecurity. <br>
+            -> Responsible for Collaborations and Sponsorships between other clubs and sponsors for large scale events.`,
       skills: [
         "Slack",
         "Effective Communication",
@@ -230,8 +229,8 @@ export const Bio = {
       role: "Beta Learn Ambassador",
       company: "Microsoft Learn",
       date: "October 2023 - Present",
-      desc: `– Engaging with faculty and students to showcase the benefits of Microsoft tools for education and innovation and also completing projects and hosting events on campus.
-            -Hosted an Introduction to Power BI workshop teaching attendees about the basics of Power BI and how to create dynamic reports and visualize large datasets. Event had 80+ unique participants`,
+      desc: `–> Engaging with faculty and students to showcase the benefits of Microsoft tools for education and innovation and also completing projects and hosting events on campus.  <br>
+            -> Hosted an Introduction to Power BI workshop teaching attendees about the basics of Power BI and how to create dynamic reports and visualize large datasets. Event had 80+ unique participants`,
       skills: [
         "PowerBI",
         "MS Office",
@@ -244,7 +243,7 @@ export const Bio = {
       role: "Marketing Head",
       company: "Microsoft Tech Club",
       date: "June 2023 - June 2024",
-      desc: "-Developed Marketing Strategies and Content to Promote Clubs Events and also Controlled Social Media Activities for engagement with members.",
+      desc: "-> Developed Marketing Strategies and Content to Promote Clubs Events and also Controlled Social Media Activities for engagement with members.",
       skills: [
         "Social Media Management",
         "Capcut",
@@ -258,7 +257,7 @@ export const Bio = {
       role: "Business Development Intern",
       company: "Resource Log",
       date: "January 2024 - February 2024",
-      desc: "-CV Sourcing of Ideal Candidates for respective roles of Clients and Communicating with Candidates and Potential Clients through the recruitment cycle.",
+      desc: "-> CV Sourcing of Ideal Candidates for respective roles of Clients and Communicating with Candidates and Potential Clients through the recruitment cycle.",
       skills: [
         "Linkedin",
         "Effective Communication",
@@ -270,7 +269,7 @@ export const Bio = {
       role: "IT Intern",
       company: "Fidelity United",
       date: "June 2023 - August 2023",
-      desc: "-Developed Documentation Highlighting the Insurance Procedure for the Claims and Underwriting Departments for Motor Insurance in the UAE,Developed Dynamic Company Reports using SAP Crystal Reports Software for Company Invoices and Claims Reports",
+      desc: "-> Developed Documentation Highlighting the Insurance Procedure for the Claims and Underwriting Departments for Motor Insurance in the UAE,Developed Dynamic Company Reports using SAP Crystal Reports Software for Company Invoices and Claims Reports",
       skills: [
         "Oracle Databases",
         "SAP Crystal Reports",
@@ -295,8 +294,8 @@ export const Bio = {
       school: "Delhi Private School,Dubai",
       date: "Apr 2019 - Apr 2021",
       grade: "95.1%",
-      desc: "I completed my class 12 high school education at DPS,Dubai, where I studied Science with Computer Science.",
-      degree: "Physics,Chemistry,Math,Computer Science,Marketing",
+      desc: "I completed my class 12 high school education at DPS Dubai, where I studied Science with Computer Science.",
+      degree: "Physics, Chemistry, Math, Computer Science, Marketing",
     },
     {
       id: 2,
@@ -305,7 +304,7 @@ export const Bio = {
       date: "Apr 2014 - Apr 2019",
       grade: "89.9%",
       desc: "I completed my class 10 education at JSSPS,Dubai.",
-      degree: "Science,Math,Computer,SST,Hindi,English",
+      degree: "Science, Math, Computer, SST, Hindi, English",
     },
   ];
   
@@ -313,7 +312,7 @@ export const Bio = {
     {
       id: 10,
       title: "Weather App",
-      date: "Jun 2024-Jun 2024",
+      date: "Jun 2024 - Jun 2024",
       description:
         "A weather app using HTML,CSS,Java Script and a OpenWeather API",
       image:"https://www.figma.com/community/resource/ef460dbe-297b-48be-b3cf-627cea750998/thumbnail",
@@ -351,7 +350,7 @@ export const Bio = {
     {
       id: 1,
       title: "Football Predictor",
-      date: "Jan 2024-Feb 2024",
+      date: "Jan 2024 - Feb 2024",
       description:
         "A premier league football predictor using webscrapped football stats to make game predictions for the 23-24 seasons",
       image:"https://resources.premierleague.pulselive.com/photo-resources/2024/07/30/69963040-5d01-497f-984f-08e9491d733a/Saka-v-Chelsea-2023-24.jpg?width=1400&height=800",
@@ -400,7 +399,7 @@ export const Bio = {
     {
       id: 4,
       title: "Campus Management System",
-      date: "Feb 2023-May 2023",
+      date: "Feb 2023 - May 2023",
       description:
         "A Campus Management System utilzing distributed databses to oversee all Campus Activities",
       image:"https://mma.prnewswire.com/media/543372/Campus_Management_Logo.jpg?p=facebook",
@@ -411,7 +410,7 @@ export const Bio = {
     {
       id: 5,
       title: "Java Chess Engine",
-      date: "Oct 2022- Dec 2022",
+      date: "Oct 2022 - Dec 2022",
       description:
         "Chess board game using bit boards using advanced OOP concepts with Java.",
       image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chess_pieces_close_up.jpg/1200px-Chess_pieces_close_up.jpg",
